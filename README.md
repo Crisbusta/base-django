@@ -1,4 +1,4 @@
-# Base Django 3 + Docker
+# Base Django 4 + Docker
 
 Para correr este proyecto se debe contar con:
 * Docker 
