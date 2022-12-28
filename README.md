@@ -1,4 +1,4 @@
-# Base Django 4 + Docker
+# Base Django 4 + Docker + Postgresql
 
 Para correr este proyecto se debe contar con:
 * Docker 
